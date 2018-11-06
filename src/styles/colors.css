@@ -1,0 +1,19 @@
+navbar {
+  color: #04a777;
+}
+
+text {
+  color: #291720;
+}
+
+hover {
+  color: #d90368;
+}
+
+active {
+  color: #820263;
+}
+
+disabled {
+  color: #f75c03;
+}

@@ -1,0 +1,47 @@
+.navbar-custom {
+  background-color: #04a777;
+}
+
+.navbar-brand {
+  -webkit-transition: background-color 1s;
+  -moz-transition: background-color 1s;
+  -o-transition: background-color 1s;
+  transition: background-color 1s;
+  color: #291720;
+  padding: 5px 5px 5px 5px;
+}
+
+.navbar-brand:hover {
+  background-color: rgba(217, 3, 104, 1);
+  color: #291720;
+}
+
+.nav-item {
+  margin-right: 10px;
+}
+
+.nav-item > .nav-link {
+  -webkit-transition: background-color 1s;
+  -moz-transition: background-color 1s;
+  -o-transition: background-color 1s;
+  transition: background-color 1s;
+}
+
+.nav-item > .nav-link:link:hover {
+  background-color: rgba(217, 3, 104, 1);
+}
+
+.nav-link {
+  color: #291720;
+}
+
+.nav-item > .nav-link:link {
+  color: #291720;
+}
+
+.dropdown.nav-item > .dropdown-toggle.nav-link {
+  color: #291720;
+}
+.dropdown.nav-item > .dropdown-toggle.nav-link:hover {
+  background-color: rgba(217, 3, 104, 1);
+}
