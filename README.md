@@ -46,7 +46,7 @@ Supported attributes are
 - placeholder (placeholder text[optional])
 - [options]: {[value], [text]} (options attribute must be placed if type attribut is select)
 
-###Examples
+### Examples
 
 ```
 state = {
