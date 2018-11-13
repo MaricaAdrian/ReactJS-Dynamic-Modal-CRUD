@@ -17,10 +17,10 @@ $ npm start
 
 ## Actions
 
-- [Adding a new entry](#add_new_entry)
-- [Editing an entry](#edit_entry)
-- [Delete an entry](#delete_entry)
-- [Add a new input to the modal](#add_new_input)
+- [Adding a new entry](#adding-new-entry)
+- [Editing an entry](#editing-an-entry)
+- [Delete an entry](#delete-an-entry)
+- [Add a new input to the modal](#add-a-new-input-to-the-modal)
 
 ## `Adding a new entry`
 
