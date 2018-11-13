@@ -22,19 +22,19 @@ $ npm start
 - [Delete an entry](#delete_entry)
 - [Add a new input to the modal](#add_new_input)
 
-## Adding a new entry
+## `Adding a new entry`
 
 Click on the add button and complete the inputs
 
-## Editing an entry
+## `Editing an entry`
 
 Click on the edit button and edit your inputs
 
-## Delete an entry
+## `Delete an entry`
 
 Click on the delete button to delete an entry
 
-## Add a new input to the modal
+## `Add a new input to the modal`
 
 In order to add a new input to the modal you need to modify the `state` from `App.js`
 Go to `App.js` and in the `state` at the array containing the inputs that it's named `inputs` you need to add a new item
@@ -46,7 +46,7 @@ Supported attributes are
 - placeholder (placeholder text[optional])
 - [options]: {[value], [text]} (options attribute must be placed if type attribut is select)
 
-### Examples
+### `Examples`
 
 ```
 state = {
